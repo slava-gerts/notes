@@ -1,0 +1,14 @@
+.bin {
+  width: 150px;
+  height: 150px;
+  position: absolute;
+  top: 5px;
+  right: 5px;
+  background-color: white;
+  color: black;
+  font-size: 12px;
+  border: 1px dashed gray;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}

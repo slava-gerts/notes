@@ -2,6 +2,11 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+This project allows us to create notes with random colors. Users are able to drag, resize notes and type any text.
+Also users are able to remove any note by dragging it over a bin with text "Drop note here to remove". All notes are saving 
+in a local storage so users can reload a page without losing data. In additional users can save data in the server. But
+in scope of current project we just use mock server so after reloading a page all data will be lost there.
+
 ## Available Scripts
 
 In the project directory, you can run:

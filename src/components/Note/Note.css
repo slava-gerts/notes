@@ -1,0 +1,10 @@
+.note {
+  width: 150px;
+  height: 150px;
+  overflow: auto;
+  position: fixed;
+  outline: none;
+  box-shadow: 0 0 6px;
+  top: 150px;
+  left: 150px;
+}
